@@ -2,8 +2,6 @@
 
 This is a responsive personal profile webpage built using **HTML**, **CSS**, and **JavaScript**. It showcases my bio, skills, hobbies, and contact information.
 
----
-
 ## 📂 Project Structure
 
 my-profile/
@@ -19,7 +17,7 @@ my-profile/
 ├── photography.jpg # Hobbies image
 ├── badminton.jpg # Hobbies image
 └── music.jpg # Hobbies image
----
+
 
 ## ✨ Features
 
@@ -30,13 +28,12 @@ my-profile/
 - Clickable **contact links** (LinkedIn, Instagram, Twitter/X, GitHub)
 - Clean and modern **UI with gradients and shadows**
 
----
 
 ## 🚀 How to Run Locally
 
 1. Clone the repository or download the files:
 
-   ```bash
+ bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 Open index.html in your browser.
